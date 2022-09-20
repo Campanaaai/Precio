@@ -1,5 +1,3 @@
-#Isaias Ortiz 4°D
-#WENAAAAA VICHINN
 #DragNu para presidente
 nombre = input("nombre del producto: ")
 precio = int(input("Precio neto del producto: "))
