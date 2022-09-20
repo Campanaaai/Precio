@@ -1,4 +1,4 @@
-#Seba pasado a quesillo jodaaaaa
+#XD'NT
 #Isaias Ortiz 4°D
 #WENAAAAA VICHINN
 #DragNu para presidente
