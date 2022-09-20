@@ -1,4 +1,4 @@
-#DragNu para presidente
+#DragNu .I.
 nombre = input("nombre del producto: ")
 precio = int(input("Precio neto del producto: "))
 cantidad = int(input("Cantidad: "))
