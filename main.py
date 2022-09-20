@@ -1,4 +1,4 @@
-#Isaias Ortiz 4°D
+#Vicente Villarroel 4°D
 nombre = input("nombre del producto: ")
 precio = int(input("Precio neto del producto: "))
 cantidad = int(input("Cantidad: "))
